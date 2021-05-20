@@ -1,0 +1,32 @@
+[
+  {
+    "quizInfo": [
+      {
+        "appBarText": "numbers",
+        "instruction": "Work out the calculation",
+        "question": "How much is:"
+      }
+    ]
+  },
+  {
+    "calculations": [
+      {
+        "calculation": "1 + 0",
+        "answer": 1
+      },
+      {
+        "calculation": "1 + 1",
+        "answer": 2
+      },
+      {
+        "calculation": "2 + 3",
+        "answer": 5
+      },
+      {
+        "calculation": "7 + 3",
+        "answer": 10
+      }
+    ]
+  }
+]
+

@@ -1,0 +1,40 @@
+[
+  {
+    "key": "1x1",
+    "color": "red",
+    "group": 1,
+    "period": 1
+  },
+  {
+    "key": "1x2",
+    "color": "orange",
+    "group": 1,
+    "period": 2
+  },
+  {
+    "key": "1x3",
+    "color": "yellow",
+    "group": 1,
+    "period": 3
+  },
+  {
+    "key": "1x4",
+    "color": "green",
+    "group": 1,
+    "period": 4
+  },
+  {
+    "key": "1x5",
+    "color": "blue",
+    "group": 1,
+    "period": 5
+  },
+  {
+    "key": "1x6",
+    "color": "purple",
+    "group": 1,
+    "period": 6
+  }
+]
+
+

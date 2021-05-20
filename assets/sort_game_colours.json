@@ -1,0 +1,15 @@
+[
+  {
+    "appBarTitle": "Build a Rainbow!",
+    "instruction": "Put the colors in the right order so it represents a rainbow!",
+    "answers": [
+      "red",
+      "orange",
+      "yellow",
+      "green",
+      "blue",
+      "purple"
+    ]
+  }
+]
+

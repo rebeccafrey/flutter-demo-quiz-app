@@ -1,0 +1,59 @@
+[
+  {
+    "quizInfo": [
+      {
+        "instruction": "Swipe right, if you think it is true, swipe left, if you think 'no way'. You can also swipe the card down, if you're really unsure.",
+        "swipeDirectionsAnswers": [
+          {
+            "left": false
+          },
+          {
+            "right": true
+          },
+          {
+            "down": null
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "questions": [
+      {
+        "question": "In the film 'Elf', Buddy the Elf is played by Ben Stiller.",
+        "answer": false,
+        "image": "https://images.unsplash.com/photo-1604868379657-dd7c35f6c4cf?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2550&q=80",
+        "semanticLabel": "elf on the shelf in close.up, cheakily looking to the side"
+      },
+      {
+        "question": "Bob the Builder achieved a Christmas Number 1 single in the UK.",
+        "answer": true
+      },
+      {
+        "question": "Santa Claus' Canadian postcode is H0H 0H0.",
+        "answer": true,
+        "image": "https://images.unsplash.com/photo-1544653546-b0f98edb134d?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2418&q=80",
+        "semanticLabel": "illuminated Ho Ho Ho"
+      },
+      {
+        "question": "'The Nightmare Before Christmas' was directed by Tim Burton.",
+        "answer": false,
+        "image": "https://images.unsplash.com/photo-1543636315-c6bc3b182c70?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1650&q=80",
+        "semanticLabel": "A chubby version of Jack Skellington as Christmas tree ornament hanging in a white tree"
+      },
+      {
+        "question": "The first ever SMS text message was 'Merry Christmas'.",
+        "answer": true,
+        "image": "https://images.unsplash.com/photo-1587813723351-a43ed2cae4d7?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&auto=format&fit=crop&w=1650&q=80",
+        "semanticLabel": "image of plain mobile phone in landscape mode displaying 'Stay home'"
+      },
+      {
+        "question": "A white Christmas is statistically more likely in New York City than in London.",
+        "answer": true,
+        "image": "https://images.unsplash.com/photo-1523540499309-18d7a30ddf76?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80",
+        "semanticLabel": "scenery in London with a bench in the foreground and the London Bridge in the background, all covered in snow"
+      }
+    ]
+  }
+]
+

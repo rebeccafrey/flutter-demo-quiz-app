@@ -1,0 +1,42 @@
+[
+  {
+  "question": "This one is mostly about film, but then also about music.",
+  "answers": {
+    "a": "correct",
+    "b": "not this one",
+    "c": "nope",
+    "d": "better not"
+  },
+  "correctAnswer": "a",
+  "score": [
+    { "film": 10},
+    { "music": 5}
+   ]
+  },
+  {
+    "question": "This is only about film.",
+    "answers": {
+      "a": "nope",
+      "b": "no",
+      "c": "nope",
+      "d": "correct"
+    },
+    "correctAnswer": "d",
+    "score": [
+      { "film": 10}
+    ]
+  },
+  {
+    "question": "This is about music.",
+    "answers": {
+      "a": "si",
+      "b": "better not",
+      "c": "nope",
+      "d": "rather not"
+  },
+    "correctAnswer": "a",
+    "score": [
+      { "music": 10}
+    ]
+  }
+]
